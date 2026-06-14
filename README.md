@@ -1,2 +1,2 @@
-# projects
+# Projects
 Ideas for learning
